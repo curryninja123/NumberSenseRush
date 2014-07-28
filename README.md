@@ -1,8 +1,6 @@
 <h1>Number Sense Rush</h1>
 =================
 
-Nethra
-
 Number Sense Rush is an open-sourced application to practice UIL Number Sense Questions from a Java Console. This project is currently under development and alpha testing by Dulles High School SNHS Developer Program. If you would like to start collaborating on this project, please talk to an author.
 
 <h2>Details</h2>

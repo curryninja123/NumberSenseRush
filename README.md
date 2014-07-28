@@ -1,21 +1,21 @@
-Number Sense Rush
+<h1>Number Sense Rush</h1>
 =================
 
 Number Sense Rush is an open-sourced application to practice UIL Number Sense Questions from a Java Console. This project is currently under development and alpha testing by Dulles High School SNHS Developer Program. If you would like to start collaborating on this project, please talk to an author.
 
-Details
+<h2>Details</h2>
 -------
 
 Current Version: 1.0 alpha
 Tricks included: 4
 Authors: 1
 
-Authors
+<h2>Authors</h2>
 -------
 
 Vishnu Iyer: vishnu72498@gmail.com
 
-API Help for Developers
+<h2>API Help for Developers</h2>
 -----------------------
 
 If you are a developer collaborating on this project, there are a few steps you must take in order to advance the program. First things first, the structure of the application is so: there is a GUI package in which all the user interface programs shall be placed as of now, only a package info and a Runner (void main) file are in the package. There is another package called info.TrickList, which contains an abstract class by the name of Question. There are many classes which extend Question, and they take the suffix "Trick" followed by a three digit number code.For example:

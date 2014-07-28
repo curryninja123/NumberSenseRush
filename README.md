@@ -1,7 +1,7 @@
 Number Sense Rush
 =================
 
-Number Sense Rush is an open-sourced application to practice UIL Number Sense Questions from a Java Console. This project is currently under development and alpha testing by Dulles SNHS Developer Program. If you would like to start collaborating on this project, please talk to an author.
+Number Sense Rush is an open-sourced application to practice UIL Number Sense Questions from a Java Console. This project is currently under development and alpha testing by Dulles High School SNHS Developer Program. If you would like to start collaborating on this project, please talk to an author.
 
 Details
 -------

@@ -1,0 +1,8 @@
+Trick List Table of Contents
+
+Note to developers: please update this list once you create a new trick.
+
+001.	FOIL
+002.	Squaring Numbers With a Units Digit of 5
+003.	Multiplying 2 Digit Numbers With Same 10s Digit, Units Digits Add to Ten
+004.	Simple Addition
